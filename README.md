@@ -1,2 +1,2 @@
-# merge-and-conflits
+REMOTE
 This project is create to experiment git notions of merge and conflits
